@@ -1,8 +1,7 @@
-# 🎫 Support tickets template
+# 🎫 IT support tickets system
 
 A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
 
 ### How to run it on your own machine
 
@@ -17,3 +16,5 @@ A simple Streamlit app showing an internal tool that lets you create, manage, an
    ```
    $ streamlit run streamlit_app.py
    ```
+
+Forked from https://github.com/streamlit/support-tickets-template
